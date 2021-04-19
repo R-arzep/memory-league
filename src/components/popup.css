@@ -1,0 +1,18 @@
+.root
+{
+    position: fixed;
+    display: grid;
+    top: 30%;
+    left: 25%;
+    width: 50%;
+    height: 200px;
+    background: aliceblue;
+    justify-items: center;
+    align-items: center;
+  }
+.button 
+{
+    background: white;
+    border: solid 1px black;
+    padding: 1em 2em;
+}

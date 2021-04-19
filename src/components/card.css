@@ -1,0 +1,43 @@
+.card
+{
+    padding: 5px;
+    border-radius: 5px;
+    height: 250px;
+    width: 160px;
+    position: relative;
+    transition: all 0.4s linear;
+    transform-style: preserve-3d;
+    margin: 5px;
+    background-image: url('./BackCard.png');
+    background-size: cover;
+    background-clip: padding-box;
+    background-origin: padding-box;
+}
+.card div , img
+{
+    height: 250px;
+    width: 160px;
+    position: absolute;
+    backface-visibility: hidden;
+}
+.selected 
+{
+    border-color: blue;
+    transform: rotateY(180deg);
+}
+.front
+{
+    transform: rotateY(180deg);
+}
+.matched
+{
+    border-color: green;
+    background-color: white;
+    transform: rotateY(180deg);
+}
+.back
+{
+    transform: rotateY(180deg);
+    top: 25%;
+    left: 35%;
+}

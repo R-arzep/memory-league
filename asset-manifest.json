@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-league/static/css/main.89699431.chunk.css",
+    "main.js": "/memory-league/static/js/main.65452fc4.chunk.js",
+    "main.js.map": "/memory-league/static/js/main.65452fc4.chunk.js.map",
+    "runtime-main.js": "/memory-league/static/js/runtime-main.3d483fd9.js",
+    "runtime-main.js.map": "/memory-league/static/js/runtime-main.3d483fd9.js.map",
+    "static/js/2.ac5ea92a.chunk.js": "/memory-league/static/js/2.ac5ea92a.chunk.js",
+    "static/js/2.ac5ea92a.chunk.js.map": "/memory-league/static/js/2.ac5ea92a.chunk.js.map",
+    "static/js/3.84abfdc5.chunk.js": "/memory-league/static/js/3.84abfdc5.chunk.js",
+    "static/js/3.84abfdc5.chunk.js.map": "/memory-league/static/js/3.84abfdc5.chunk.js.map",
+    "index.html": "/memory-league/index.html",
+    "static/css/main.89699431.chunk.css.map": "/memory-league/static/css/main.89699431.chunk.css.map",
+    "static/js/2.ac5ea92a.chunk.js.LICENSE.txt": "/memory-league/static/js/2.ac5ea92a.chunk.js.LICENSE.txt",
+    "static/media/card.css": "/memory-league/static/media/BackCard.4c289924.png",
+    "static/media/App.css": "/memory-league/static/media/Friz Quadrata Bold.edba907e.otf",
+    "static/media/index.css": "/memory-league/static/media/bg.6da142a6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d483fd9.js",
+    "static/js/2.ac5ea92a.chunk.js",
+    "static/css/main.89699431.chunk.css",
+    "static/js/main.65452fc4.chunk.js"
+  ]
+}
